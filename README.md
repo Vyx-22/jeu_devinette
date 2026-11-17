@@ -44,7 +44,7 @@ Projet réalisé dans le cadre d'un TP de programmation orientée objet, en L2 c
 
 ```bash
 git clone https://github.com/Vyx/jeu_devinette.git
-cd jeu-devinette
+cd jeu_devinette
 javac *.java
 ```
 
